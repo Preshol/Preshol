@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Preshol
+- 👀 I’m interested in providing solutions
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on web dev. framework community
+- 📫 How to reach me daveadebanjo20@gmail.com, +2347012024421
+
+<!---
+Preshol/Preshol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
